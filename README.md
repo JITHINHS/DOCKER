@@ -27,6 +27,7 @@ Prerequisites
 ```bash git clone https://github.com/<your-repo>/docker-microservices.git
 cd docker-microservices`
 docker-compose up -d
+```
 
 ## CI/CD Workflow
 GitHub Actions pipeline:
@@ -51,7 +52,7 @@ jobs:
         run: trivy image myapp:${{ github.sha }}
       - name: Push to Docker Hub
         run: docker push mydockerhub/myapp:${{ github.sha }}
-
+```
 ## Usage
 Access frontend at http://localhost:3000
 
