@@ -1,4 +1,4 @@
-#Containerized microservices with Docker and automated CI/CD pipeline using GitHub Actions.
+# Containerized microservices with Docker and automated CI/CD pipeline using GitHub Actions.
 
 
 ## Project Overview
