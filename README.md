@@ -1,5 +1,4 @@
-# Containerized microservices with Docker and automated CI/CD pipeline using GitHub Actions.
-
+# DevOps portfolio project showcasing Dockerized microservices, CI/CD automation with GitHub Actions, and security scanning using Trivy.
 
 ## Project Overview
 This project demonstrates a microservices-based application containerized with Docker and orchestrated using Docker Compose.  
