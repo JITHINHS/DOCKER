@@ -140,18 +140,13 @@ Steps to contribute:
 
 ---
 
-## License
-
-This project is licensed under the MIT License.  
-You are free to use, modify, and distribute this project, provided proper attribution is given.
-
 ## Contact
 
 If you’d like to connect, feel free to reach out:
 
-- **GitHub**: [https://github.com/<your-username>](https://github.com/<your-username>)
-- **LinkedIn**: [https://www.linkedin.com/in/<your-linkedin-handle>](https://www.linkedin.com/in/<your-linkedin-handle>)
-- **Email**: yourname@example.com
+- **GitHub**: [https://github.com/JITHINHS](https://github.com/JITHINHS)
+- **LinkedIn**: [https://www.linkedin.com/in/jithin-h-s/](https://www.linkedin.com/in/jithin-h-s/)
+- **Email**: hjithin598@gmail.com
 
 ---
 
